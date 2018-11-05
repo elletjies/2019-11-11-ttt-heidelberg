@@ -14,7 +14,7 @@ enddate: 2018-12-03        # machine-readable end date for the workshop in YYYY-
 instructor: ["Malvika Sharan (in-person)", "Rayna Harris (joining remotely)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Meet a few trainers who will be joining remotely", "Paula Andrea Martinez", "Nicolás Palopoli"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["malvika.sharan@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: https://pad.carpentries.org/2018-12-03-ttt-quilmes         # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -114,8 +114,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to record one another teaching in pairs or threes.  It does not have
   to be high-quality, but it should be good enough that you can
   understand what someone is saying.
-  <strong>Registration:</strong> https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes
-</p>
+</p> 
 <p>
   Please note that after this course is over, you will be asked to do
   three short follow-up exercises online in order to finish qualifying
@@ -143,6 +142,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   you (e.g. sign-language interpreters, lactation facilities) please
   please get in touch (using contact details below) and we will
   attempt to provide them.
+</p>
+
+<p>
+  <strong>Registration:</strong><a href="https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes">https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes</a>
 </p>
 
 <p id="contact">
