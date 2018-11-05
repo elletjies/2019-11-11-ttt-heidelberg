@@ -114,6 +114,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to record one another teaching in pairs or threes.  It does not have
   to be high-quality, but it should be good enough that you can
   understand what someone is saying.
+  <strong>Registration:</strong> https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes
 </p>
 <p>
   Please note that after this course is over, you will be asked to do
