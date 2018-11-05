@@ -143,11 +143,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   please get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
-
-<h3>
-  <strong>Registration:
-</h3>
-  <a href="https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes">https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes</a>
+<p>
+<h3>Registration:</h3>
+<a href="https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes">https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes</a>
 </p>
 
 <p id="contact">
