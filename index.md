@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Universidad Nacional de Quilmes"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Train the Trainer Workshop to Learn Teaching Techniques, Universidad Nacional de Quilmes"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Universidad Nacional de Quilmes"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "Ar"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "En"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -105,9 +105,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <p>
-  <strong>Requirements:</strong> If you
-  have, participants can bring a laptop that can be connected to Internet 
+  <strong>Requirements:</strong> When possible, participants should bring 
+  a laptop that can be connected to Internet 
   to follow teaching materials and developing shared note. 
+  </br>
   A device for recording audio and video (mobile phones and
   laptops are OK) will also be useful as throughout the two days, we are going
   to record one another teaching in pairs or threes.  It does not have
