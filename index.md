@@ -296,11 +296,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
-<p>
-  <strong>Sponsors and supporters:</strong> 
-  This course is hosted by the <a href="http://www.unq.edu.ar/english/sections/158-unq/">University of Quilmes</a> as a part of <a href="idpfun.eu/">IDPfun grant</a>. This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.
-</p>
-![](https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png)
-![](http://lascs.iscbsc.org/sites/default/files/IDPfun.png)
-![](https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg)
+<p><strong>Sponsors and supporters:</strong></p>
+<p>This course is hosted by the <a href="http://www.unq.edu.ar/english/sections/158-unq/">University of Quilmes</a> as a part of <a href="idpfun.eu/">IDPfun grant</a>. This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
+<p><img src="https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png" width="191" height="136" />      <img src="http://lascs.iscbsc.org/sites/default/files/IDPfun.png" width="140" height="87" />     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="309" height="80" /></p>
+<hr />
+<p> </p>
 {% endif %}
