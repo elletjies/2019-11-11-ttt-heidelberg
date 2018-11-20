@@ -295,4 +295,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <br/>
   We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+
+<p>
+  <strong>Sponsors and supporters:</strong> 
+  This course is hosted by the [University of Quilmes](http://www.unq.edu.ar/english/sections/158-unq/) as a part of [IDPfun grant](idpfun.eu/). This course is also supported by [de.NBI](https://www.denbi.de/) - ELIXIR, Germany.
+</p>
+![](https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png)
+![](http://idpfun.eu/)
+![](https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg)
 {% endif %}
