@@ -301,6 +301,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   This course is hosted by the <a href="http://www.unq.edu.ar/english/sections/158-unq/">University of Quilmes</a> as a part of <a href="idpfun.eu/">IDPfun grant</a>. This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.
 </p>
 ![](https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png)
-![](http://idpfun.eu/)
+![](http://lascs.iscbsc.org/sites/default/files/IDPfun.png)
 ![](https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg)
 {% endif %}
