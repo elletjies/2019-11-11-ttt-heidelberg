@@ -210,7 +210,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <li><a href="https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/">Explorando data frames (R)</a></li> 
 <li><a href="https://carpentries-es.github.io/python-ecology-lesson-es/02-starting-with-data/index.html">Comenzando con datos (Python)</a></li> 
  <li><a href="https://swcarpentry.github.io/git-novice-es/04-changes/">Rastreando Cambios</a></li>
-
+</div>
 </div>
 
 <hr/>
