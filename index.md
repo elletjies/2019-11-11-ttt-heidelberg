@@ -203,6 +203,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <li><a href="{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/">Exploring Data Frames in R</a></li>
     </ul>
   </div>
+  <div class="col-md-6">
+    <p><strong>Spanish versions of some of the lessons</strong></p>
+    <ul>
+      <li><a href="https://swcarpentry.github.io/shell-novice-es/03-create/">Trabajando con archivos y directorios (Unix)</a></li>
+<li><a href="https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/">Explorando data frames (R)</a></li> 
+<li><a href="https://carpentries-es.github.io/python-ecology-lesson-es/02-starting-with-data/index.html">Comenzando con datos (Python)</a></li> 
+ <li><a href="https://swcarpentry.github.io/git-novice-es/04-changes/">Rastreando Cambios</a></li>
+
 </div>
 
 <hr/>
