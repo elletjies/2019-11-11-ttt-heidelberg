@@ -149,7 +149,6 @@ Information will be available soon.
 </p>
 <h3>Official announcement:</h3>
 https://www.scilifelab.se/events/elixir-excelerate-train-the-trainer/
-</p>
 
 <p id="contact">
   <strong>Contact</strong>:
