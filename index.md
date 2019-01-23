@@ -100,7 +100,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <a href="https://goo.gl/maps/2HH4kPKZkQk">Google Maps</a>.
 </p>
 {% endif %}
 
@@ -281,7 +281,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </table>
   </div>
 </div>
-
+<hr/>
 
 
 <!--
@@ -299,7 +299,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   e.g., '2015-06-10-esu'.
 -->
 {% if page.etherpad %}
-<hr/>
+
 
 <p id="etherpad">
   <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
@@ -311,7 +311,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>This course is organized by the ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB. 
   
  This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
-<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" width="191" height="136" />      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" width="140" height="87" />     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="309" height="80" /></p>
-<hr />
+<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" width="191"/>      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" width="140"/>     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="250"/></p>
 <p> </p>
 {% endif %}
