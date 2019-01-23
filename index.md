@@ -311,6 +311,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>This course is organized by the ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB. 
   
  This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
-<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" width="191"/>      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" width="140"/>     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="250"/></p>
+<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" height="60"/>      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" height="60"/>     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" height="60"/></p>
 <p> </p>
 {% endif %}
