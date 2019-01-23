@@ -145,7 +145,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 <p>
 <h3>Registration:</h3>
-<a href="https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes">https://www.hd-hub.de/course-dates/3-all/39-2018-ttt-quilmes</a>
+Information will be available soon.
+</p>
+<h3>Official announcement:</h3>
+https://www.scilifelab.se/events/elixir-excelerate-train-the-trainer/
 </p>
 
 <p id="contact">
