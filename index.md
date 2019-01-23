@@ -2,19 +2,19 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Train the Trainer Workshop to Learn Teaching Techniques, Universidad Nacional de Quilmes"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Universidad Nacional de Quilmes"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "Ar"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+venue: "ELIXIR-EXCELERATE Train the Trainer, Stockholm, Sweden"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Science for Life Laboratory, Tomtebodavägen 23A, 17165 Solna, Sweden. Auditorium Air"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "Sw"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "En"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "Dec 03-04, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 am - 5:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-12-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Malvika Sharan (in-person)", "Rayna Harris (joining remotely)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Nicolás Palopoli", "Paula Andrea Martinez (joining remotely)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["malvika.sharan@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad: https://pad.carpentries.org/2018-12-03-ttt-quilmes         # optional: URL for the workshop Etherpad if there is one
+instructor: ["Allegra Via", "Malvika Sharan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Jessica M. Lindvall", "Pascal Kahlem"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+contact: ["jessicamlindvall@gmail.com", "malvika.sharan@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+etherpad: https://pad.carpentries.org/2019-04-03-ttt-stockholm         # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -308,8 +308,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>Sponsors and supporters:</strong></p>
-<p>This course is hosted by the <a href="http://www.unq.edu.ar/english/sections/158-unq/">University of Quilmes</a> as a part of <a href="idpfun.eu/">IDPfun grant</a>. This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
-<p><img src="https://www.eduopinions.com/wp-content/uploads/2017/07/Universidad-Nacional-de-Quilmes-logo-.png" width="191" height="136" />      <img src="http://lascs.iscbsc.org/sites/default/files/IDPfun.png" width="140" height="87" />     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="309" height="80" /></p>
+<p>This course is organized by the ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB. 
+  
+ This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
+<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" width="191" height="136" />      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" width="140" height="87" />     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" width="309" height="80" /></p>
 <hr />
 <p> </p>
 {% endif %}
