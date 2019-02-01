@@ -13,7 +13,7 @@ startdate: 2018-12-03      # machine-readable start date for the workshop in YYY
 enddate: 2018-12-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Allegra Via", "Malvika Sharan"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Jessica M. Lindvall", "Pascal Kahlem"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["jessicamlindvall@gmail.com", "malvika.sharan@embl.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+contact: ["jessicamlindvall@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad: https://pad.carpentries.org/2019-04-03-ttt-stockholm         # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -147,9 +147,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h3>Registration:</h3>
 Information will be available soon.
 </p>
-<h3>Official announcement:</h3>
-https://www.scilifelab.se/events/elixir-excelerate-train-the-trainer/
-
 <p id="contact">
   <strong>Contact</strong>:
   Please email
