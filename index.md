@@ -126,7 +126,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p align="center">
   <em>
     All participants are required to abide by The Carpentries'
-    <a href="{{ site.swc_site }}/conduct/">Code of Conduct</a>.
+    <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
   </em>
 </p>
 
