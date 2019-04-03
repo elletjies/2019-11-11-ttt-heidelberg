@@ -239,7 +239,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 
-
+<!--
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -282,7 +282,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </div>
 <hr/>
 
-
+-->
 <!--
   ETHERPAD
 
