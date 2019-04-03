@@ -282,8 +282,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </div>
 <hr/>
 
--->
-<!--
   ETHERPAD
 
   At `_misc/etherpad.txt` you will find a template for the etherpad.
