@@ -60,12 +60,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   The course is aimed at everyone who is
   interested in becoming a better teacher.
 
-  This training aims to teach <strong>group 1 (The Carpentries Track)</strong>
+  This training aims to teach <strong>The Carpentries Track</strong>
   to become <a href="{{ site.swc_site }}">Software Carpentry</a>,
   <a href="{{ site.dc_site }}">Data Carpentry</a> and
   <a href="https://librarycarpentry.org/">Library Carpentry</a>
   instructors, run workshops and contribute to the Carpentry training
-  materials, and <strong>group 2 (ELIXIR Track)</strong> to organise or teach at the ELIXIR
+  materials, and <strong>ELIXIR Track</strong> to organise or teach at the ELIXIR
   bioinformatics or wet-biology workshops.
 
   You don't currently have to be an instructor or a
@@ -98,9 +98,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
    On the first day, we will follow The Carpentries instructor training curricuum.
 
   On the second day, the participants in this workshop will be divided into 2 groups.
-  The <strong>group 1</strong> will focus on the specific The Carpentries curriculums for teaching programming,
+  The <strong>The Carpentries track</strong> will focus on the specific The Carpentries curriculums for teaching programming,
   and learning about their instructor checkout process required to become a certified instructors.
-  Whereas, the <strong>group 2</strong> will be able to choose between ELIXIR curriculum for
+  Whereas, the <strong>ELIXIR track</strong> will be able to choose between ELIXIR curriculum for
   teaching bioinformatics or wet-biology.
 </p>
 
@@ -177,7 +177,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>
 <h3>Registration:</h3>
 
-Registration links for group 1 and 2 will be posted soon.
+Registration links for both The Carpentries and ELIXIR tracks will be posted soon.
 
 </p>
 <p id="contact">
@@ -202,7 +202,15 @@ Registration links for group 1 and 2 will be posted soon.
 
 <hr/>
 
-<h2 id="preparation" name="preparation">Preparation</h2>
+<h2>The Carpentries track specific information</h2>
+
+<h4 id="pre_workshop_survey">Pre-training survey</h4>
+
+<p>
+  <strong>The Carpentries Track</strong> participants must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
+</p>
+
+<h4 id="preparation">Preparation</h3>
 
 <p>
   Please read the following before the workshop begins:
@@ -211,10 +219,14 @@ Registration links for group 1 and 2 will be posted soon.
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
 </ol>
 
-<h2>Group 1 (The Carpentries track) specific information</h2>
+<h3 id ="post_workshop_survey">Post-training survey</h3>
 
 <p>
-  Please note that after this course, participants of The Carpentries curriculum (<strong>group 1</strong>)
+  <strong>The Carpentries Track</strong> participants must fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a> after the workshop.
+</p>
+
+<p>
+  Please note that after this course, participants of The Carpentries track
   will be asked to do three short follow-up exercises online in order to finish qualifying
   as an instructor: the details are available at
   <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
@@ -222,29 +234,15 @@ Registration links for group 1 and 2 will be posted soon.
   or anything else, please get in touch.
 </p>
 
-<h3 id="pre_workshop_survey">Pre-training survey</h3>
-
-<p>
-  <strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
-</p>
-
-<h3 id ="post_workshop_survey">Post-training survey</h3>
-
-<p>
-  <strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a> after the workshop.
-</p>
-
-
-<h2>Training Materials and Schedule</h2>
-
-We will share the exact schedule and materials online soon.
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
 
-
 <hr/>
 
+<h2>Training Materials and Schedule</h2>
+
+We will share the exact schedule and materials online soon for both The Carpentries and ELIXIR track participants.
 
 <!--
 <div class="row">
