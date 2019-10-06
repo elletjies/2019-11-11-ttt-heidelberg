@@ -144,14 +144,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to be high-quality, but it should be good enough that you can
   understand what someone is saying.
 </p>
-<p>
-  Please note that after this course, participants of The Carpentries curriculum (<strong>group 1</strong>)
-  will be asked to do three short follow-up exercises online in order to finish qualifying
-  as an instructor: the details are available at
-  <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
-  If you have any questions about the workshop, the reading material,
-  or anything else, please get in touch.
-</p>
 
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
@@ -219,7 +211,16 @@ Registration links for group 1 and 2 will be posted soon.
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
 </ol>
 
-<h2 id="surveys">Surveys</h2>
+<h2>Group 1 (The Carpentries track) specific information</h2>
+
+<p>
+  Please note that after this course, participants of The Carpentries curriculum (<strong>group 1</strong>)
+  will be asked to do three short follow-up exercises online in order to finish qualifying
+  as an instructor: the details are available at
+  <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
+  If you have any questions about the workshop, the reading material,
+  or anything else, please get in touch.
+</p>
 
 <h3 id="pre_workshop_survey">Pre-training survey</h3>
 
@@ -230,7 +231,7 @@ Registration links for group 1 and 2 will be posted soon.
 <h3 id ="post_workshop_survey">Post-training survey</h3>
 
 <p>
-  After attending the workshop, p<strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a>
+  <strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a> after the workshop.
 </p>
 
 
