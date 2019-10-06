@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: ""    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "ELIXIR and The Carpentry Instructor Training, supported by EMBL Bio-IT & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "ELIXIR and The Carpentry Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "European Molecular Biology Laboratory"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "De"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "En"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -167,10 +167,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   attempt to provide them.
 </p>
 
-<p align="center">
+<p>
   <em>
-    All participants are required to abide by The Carpentries'
-    <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
+    <strong>All participants are required to abide by The Carpentries'
+    <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.</strong>
 
     You are encouraged to submit your report by completing the
     <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">Code of Conduct Incident Report Form</a>.
@@ -218,60 +218,25 @@ Registration links for group 1 and 2 will be posted soon.
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
 </ol>
-<p>
-  Please also read through <em>one</em> of the episodes below
-  carefully, so that you can do some exercises based on it on the
-  first day of the class.
-</p>
-<div class="row">
-  <div class="col-md-6">
-    <p><strong>Data Carpentry</strong></p>
-    <ul>
-      <li><a href="{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine">Faceting and Clustering in OpenRefine</a></li>
-      <li><a href="{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries">Basic Queries in SQL</a></li>
-      <li><a href="{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html">Starting with Data in R</a></li>
-      <li><a href="{{ site.dc_site }}/python-ecology-lesson/02-starting-with-data">Starting with Data in Python</a></li>
-    </ul>
-  </div>
-  <div class="col-md-6">
-    <p><strong>Software Carpentry</strong></p>
-    <ul>
-      <li><a href="{{ site.swc_pages }}/shell-novice/03-create/">Working with Files and Directories in the Unix Shell</a></li>
-      <li><a href="{{ site.swc_pages }}/git-novice/04-changes/">Tracking Changes in Git</a></li>
-      <li><a href="{{ site.swc_pages }}/sql-novice-survey/01-select/">Selecting Data in SQL</a></li>
-      <li><a href="{{ site.swc_pages }}/python-novice-inflammation/02-loop/">Repeating Actions with Loops in Python</a></li>
-      <li><a href="{{ site.swc_pages }}/r-novice-gapminder/05-data-structures-part2/">Exploring Data Frames in R</a></li>
-    </ul>
-  </div>
-  <div class="col-md-6">
-    <p><strong>Spanish versions of some of the lessons</strong></p>
-    <ul>
-      <li><a href="https://swcarpentry.github.io/shell-novice-es/03-create/">Trabajando con archivos y directorios (Unix)</a></li>
-<li><a href="https://swcarpentry.github.io/r-novice-gapminder-es/05-data-structures-part2/">Explorando data frames (R)</a></li>
-<li><a href="https://carpentries-es.github.io/python-ecology-lesson-es/02-starting-with-data/index.html">Comenzando con datos (Python)</a></li>
- <li><a href="https://swcarpentry.github.io/git-novice-es/04-changes/">Rastreando Cambios</a></li>
-</div>
-</div>
-
-<hr/>
 
 <h2 id="surveys">Surveys</h2>
 
 <h3 id="pre_workshop_survey">Pre-training survey</h3>
 
 <p>
-  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+  <strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
 </p>
 
 <h3 id ="post_workshop_survey">Post-training survey</h3>
 
 <p>
-  After attending the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a>
+  After attending the workshop, p<strong>Group 1 (The Carpentries Track)</strong> must fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}"> our post-training survey</a>
 </p>
 
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2>
+<h2>Training Materials and Schedule</h2>
 
+We will share the exact schedule and materials online soon.
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
@@ -335,8 +300,7 @@ Registration links for group 1 and 2 will be posted soon.
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
--->
-{% if page.etherpad %}
+  {% if page.etherpad %}
 
 
 <p id="etherpad">
@@ -344,11 +308,13 @@ Registration links for group 1 and 2 will be posted soon.
   <br/>
   We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+-->
 
 <p><strong>Sponsors and supporters:</strong></p>
 <p>This course is organized by the ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB.
 
  This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
-<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" height="60"/>      <img src="http://elixir-italy.org/wp-content/themes/iib/images/logo.png" height="60"/>     <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" height="60"/></p>
+<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" height="60"/>
+  <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" height="60"/></p>
 <p> </p>
 {% endif %}
