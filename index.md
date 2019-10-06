@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
+carpentry: ""    # what kind of Carpentry (must be either "dc" or "swc")
 venue: "ELIXIR and The Carpentry Instructor Training, supported by EMBL Bio-IT & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "European Molecular Biology Laboratory"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "De"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
@@ -83,7 +83,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   use these ideas in both intensive workshops and regular classes.
 </p>
 
-<h3>About ELIXIR: </h3
+<h3>About ELIXIR: </h3>
 <p>
   <a href="elixir-europe.org">ELIXIR</a>
   unites Europe’s leading life science organisations in managing and
