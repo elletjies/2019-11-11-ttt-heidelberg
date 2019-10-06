@@ -204,13 +204,13 @@ Registration links for both The Carpentries and ELIXIR tracks will be posted soo
 
 <h2>The Carpentries track specific information</h2>
 
-<h4 id="pre_workshop_survey">Pre-training survey</h4>
+<h3 id="pre_workshop_survey">Pre-training survey</h3>
 
 <p>
   <strong>The Carpentries Track</strong> participants must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
 </p>
 
-<h4 id="preparation">Preparation</h3>
+<h3 id="preparation">Preparation</h3>
 
 <p>
   Please read the following before the workshop begins:
