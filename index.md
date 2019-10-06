@@ -313,7 +313,10 @@ We will share the exact schedule and materials online soon for both The Carpentr
 <p>This course is organized by the ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-IIB.
 
  This course is also supported by <a href="https://www.denbi.de/">de.NBI</a> - ELIXIR, Germany.</p>
-<p><img src="https://www.elixir-europe.org/system/files/elixir_sweden_white_background.png" height="60"/>
-  <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" height="60"/></p>
+<p>
+  <img src="https://www.embl.de/layout/images/external/common/embl_logo.png" height="60"/>
+  <img src="https://elixir-europe.org/system/files/elixir-germany-logo_0.jpg" height="60"/>
+  <img src="https://www.denbi.de/templates/nbimaster/img/denbi-logo-color.svg" height="60"/>
+</p>
 <p> </p>
 {% endif %}
