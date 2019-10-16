@@ -175,9 +175,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p>
-<h3>Registration:</h3>
 
-Registration links for both The Carpentries and ELIXIR tracks will be posted soon.
+<h3>Selection process:</h3>
+
+<p>Due to a limited seat (15 for The Carpentries Track, and 10 for ELIXIR Track), the registration will be accepted on the first-come-first-serve basis.</p>
+
+<h3>Course fee:</h3>
+
+<p>This course is offered for free of charge, but in the registration form, you must justify your motivation for attending this course and the training activities you would like to get involved in afterwards.</p>
+
+<h3>Registration:</h3> 
+
+<p>You can secure a seat by registering via this form: <a href="https://forms.gle/koz2bVR7VE6BSz77A">https://forms.gle/koz2bVR7VE6BSz77A</a></p>
 
 </p>
 <p id="contact">
