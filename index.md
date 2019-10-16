@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h3>Selection process:</h3>
 
-<p>Due to a limited seat (15 for The Carpentries Track, and 10 for ELIXIR Track), the registration will be accepted on the first-come-first-serve basis.</p>
+<p>Due to a limited seats (15 for The Carpentries Track, and 10 for ELIXIR Track), the registration will be accepted on the first-come-first-serve basis.</p>
 
 <h3>Course fee:</h3>
 
