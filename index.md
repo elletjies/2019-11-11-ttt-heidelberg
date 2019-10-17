@@ -98,10 +98,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
    On the first day, we will follow The Carpentries instructor training curricuum.
 
   On the second day, the participants in this workshop will be divided into 2 groups.
-  The <strong>The Carpentries track</strong> will focus on the specific The Carpentries curriculums for teaching programming,
-  and learning about their instructor checkout process required to become a certified instructors.
-  Whereas, the <strong>ELIXIR track</strong> will be able to choose between ELIXIR curriculum for
-  teaching bioinformatics or wet-biology.
+  The <strong>The Carpentries track</strong> will focus on the specific The Carpentries curriculum for teaching programming,
+  and learning about their instructor checkout process required to become a certified instructor.
+  Those following the <strong>ELIXIR track</strong> will be able to choose between ELIXIR curriculum for
+  teaching bioinformatics or wet-lab biology.
 </p>
 
 <p>
@@ -136,7 +136,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>
   When possible, participants should bring
   a laptop that can be connected to Internet
-  to follow teaching materials and developing shared note.
+  to follow teaching materials and developing shared notes.
   </br>
   A device for recording audio and video (mobile phones and
   laptops are OK) will also be useful as throughout the two days, we are going
@@ -148,15 +148,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody. Please contact the workshop organisers to let them know
-  if need any assistance to make your participation at the workshop more comfortable.
+  if you need any assistance to make your participation at the workshop more comfortable.
 </p>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
   organizers in advance.  If we can help making learning easier for
-  you (e.g. requirements related to mobility, dietary etc.) please
+  you (e.g. requirements related to mobility, diet etc.) please
   please get in touch (using contact details below) and we will
-  attempt to provide them.
+  try our best to provide them.
 </p>
 
 <p>
@@ -178,11 +178,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h3>Selection process:</h3>
 
-<p>Due to a limited number of seats (15 for The Carpentries Track, and 10 for ELIXIR Track), the registration will be accepted on the first-come-first-serve basis.</p>
+<p>Due to a limited number of seats (15 for The Carpentries Track, and 10 for ELIXIR Track), registrations will be accepted on a first-come-first-served basis.</p>
 
 <h3>Course fee:</h3>
 
-<p>This course is offered for free of charge, but in the registration form, you must justify your motivation for attending this course and the training activities you would like to get involved in afterwards.</p>
+<p>This course is offered free of charge but, in the registration form, you must tell us about your motivation for attending the workshop and the training activities you would like to get involved in afterwards.</p>
 
 <h3>Registration:</h3> 
 
@@ -216,7 +216,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h3 id="pre_workshop_survey">Pre-training survey</h3>
 
 <p>
-  <strong>The Carpentries Track</strong> participants must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
+  Participants following <strong>The Carpentries Track</strong> must fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a> before attending the workshop.
 </p>
 
 <h3 id="preparation">Preparation</h3>
