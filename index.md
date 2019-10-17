@@ -98,7 +98,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
    On the first day, we will follow The Carpentries instructor training curricuum.
 
   On the second day, the participants in this workshop will be divided into 2 groups.
-  The <strong>The Carpentries track</strong> will focus on the specific The Carpentries curriculum for teaching programming,
+  <strong>The Carpentries track</strong> will focus on the The Carpentries' specific curriculum for teaching programming,
   and learning about their instructor checkout process required to become a certified instructor.
   Those following the <strong>ELIXIR track</strong> will be able to choose between ELIXIR curriculum for
   teaching bioinformatics or wet-lab biology.
