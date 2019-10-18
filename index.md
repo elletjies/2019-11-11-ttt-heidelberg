@@ -128,7 +128,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="https://goo.gl/maps/2HH4kPKZkQk">Google Maps</a>.
+  <a href="https://goo.gl/maps/ujfSqFw2upVH4CmC6">Google Maps</a>.
 </p>
 {% endif %}
 
