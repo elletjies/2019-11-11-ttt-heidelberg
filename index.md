@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: ""    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "ELIXIR and The Carpentry Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "ELIXIR and The Carpentries Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "European Molecular Biology Laboratory"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "De"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "En"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
