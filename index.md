@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: ""    # what kind of Carpentry (must be either "dc" or "swc")
 venue: "ELIXIR and The Carpentries Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "European Molecular Biology Laboratory"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "European Molecular Biology Laboratory, Heidelberg (Room 202)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "De"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "En"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
@@ -128,7 +128,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="https://goo.gl/maps/ujfSqFw2upVH4CmC6">Google Maps</a>.
+  <a href="https://www.google.com/maps/dir/49.384524,8.6855983/embl+heidelberg/@49.383053,8.680868,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4797c05e061d3177:0x3fb1d984ca88787c!2m2!1d8.710757!2d49.38406">Google Maps</a>.
 </p>
 {% endif %}
 
